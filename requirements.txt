@@ -1,6 +1,6 @@
 appdirs==1.4.4
 asgiref==3.4.1
-black==21.6b0
+black==24.3.0
 certifi==2021.5.30
 cffi==1.14.6
 click==8.0.1
